@@ -1,4 +1,3 @@
-<
 # Desafio-Java-Iphone-Dio
 Olá! meu nome é Anderson e esse projeto foi criado no curso de Java no módulo sobre orientação a objetos da plataforma DIO.
 
